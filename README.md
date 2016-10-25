@@ -16,6 +16,7 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 	> git clone git@github.com:StephenGrider/ReactStarter.git
 	> cd ReactStarter
 	> npm install
+	> npm install --save react-router@1.0.3 history
 	> gulp
 ```
 
@@ -25,4 +26,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 ```
 	> npm install
 	> gulp
+	> npm install --save react-router@1.0.3 history
 ```
