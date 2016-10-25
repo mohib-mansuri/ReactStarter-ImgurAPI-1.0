@@ -25,6 +25,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 
 ```
 	> npm install
-	> gulp
 	> npm install --save react-router@1.0.3 history
+	> gulp
 ```
